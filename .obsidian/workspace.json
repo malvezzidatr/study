@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "7622b495880992dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f355fb6d31150dc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f05a1fafe8255a25",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Arquitetura de Software/Exercícios Kata/Sistema de pagamentos descentralizado.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Sistema de pagamentos descentralizado"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0199147ca00b64ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "65cb44601e56947f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27124fe18d9cc9cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1a9fca489c251b3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c5fc0355953f4096",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 364.5110321044922
+  },
+  "right": {
+    "id": "cf961d27881bc206",
+    "type": "split",
+    "children": [
+      {
+        "id": "d199a2c2bd67292e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89e9cbcb31f36903",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Arquitetura de Software/Exercícios Kata/Sistema de pagamentos descentralizado.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sistema de pagamentos descentralizado"
+            }
+          },
+          {
+            "id": "7b849c2083b438d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Arquitetura de Software/Trade offs/REST vs GraphQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from REST vs GraphQL"
+            }
+          },
+          {
+            "id": "df97b63d94cdc46f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4a67db882c6ec7a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Arquitetura de Software/Trade offs/REST vs GraphQL.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of REST vs GraphQL"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "f05a1fafe8255a25",
+  "lastOpenFiles": [
+    "Arquitetura de Software/Exercícios Kata/Sistema de gerenciamento de biblioteca.md",
+    "Arquitetura de Software/Exercícios Kata/Sistema para reserva de hotel.md",
+    "Arquitetura de Software/Exercícios Kata/Sistema de pagamentos descentralizado.md",
+    "2024-10-28.md",
+    "Arquitetura de Software/Trade offs/REST vs GraphQL.md",
+    "Arquitetura de Software/Trade offs/Monolítico vs Microsserviços.md",
+    "Arquitetura de Software/Exercícios Kata/Untitled.canvas",
+    "Banco de Dados/Comandos SQL.md",
+    "Banco de Dados/Tipos de dados.md",
+    "Arquitetura de Software/Arquitetura de software.md",
+    "Arquitetura de Software/Pensamento baseado em componentes.md",
+    "Livelo/Frontend.md",
+    "Arquitetura de Software/Docker.md",
+    "Arquitetura de Software/Modularidade.md",
+    "Arquitetura de Software/Mensageria.md",
+    "Arquitetura de Software/Kubernetes.md",
+    "Untitled.canvas",
+    "Arquitetura de Software/Trade offs/Trade off.md",
+    "Excalidraw/Estudo roadmap.md",
+    "Arquitetura de Software/Trade offs",
+    "Livelo",
+    "Untitled.md",
+    "Arquitetura de Software/Exercícios Kata",
+    "Banco de Dados",
+    "Inteligência Artificial/Engenharia de Prompt.md",
+    "Excalidraw/Startup.md",
+    "Excalidraw/Drawing 2024-09-27 13.41.56.excalidraw.md",
+    "Excalidraw",
+    "AWS/Amazon Kendra.md",
+    "AWS/Amazon Textract.md",
+    "AWS/Amazon Personalize.md",
+    "AWS/Amazon Lex.md",
+    "Inteligência Artificial/Algoritmos de IA",
+    "Inteligência Artificial",
+    "AWS",
+    "Arquitetura de Software/Assets/Mapa mental mensageria.png",
+    "Arquitetura de Software/Assets/Mensageria 3 receptores.png",
+    "Arquitetura de Software/Assets/Mensageria enviando.png",
+    "Arquitetura de Software/Assets",
+    "Arquitetura de Software"
+  ]
+}
